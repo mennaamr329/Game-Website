@@ -749,23 +749,23 @@ footer .policies {
 
   .team1 .inner span.title {
     top: 5px;
-    right: -100px;
+    right: -100%;
   }
 
   .team1 .inner span.title2 {
     top: 5px;
-    right: -150px;
+    right: -150%;
   }
 
   .team1 .inner span.title1,
   .team1 .inner span.title3 {
     top: 5px;
-    right: -40px;
+    right: -40%;
   }
 
   .team1 .inner span.title4 {
     top: 5px;
-    right: -140px;
+    right: -140%;
   }
    
 }
